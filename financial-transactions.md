@@ -29,6 +29,10 @@ The following Awesome list of non-profit and educational institution Decentraliz
 
 ## Financial Transactions
 
+- ### EMPACT
+	- https://innovation.wfp.org/project/empact - EMPACT is a World Food Programme innovation project that connects young people from food-insecure communities to the digital economy. In Kibera, Africa's largest urban slum, located in Kenya, the students are trained to perform routine IT tasks via freelance microwork platforms. In doing so, they can earn income online and afford to buy food and pay for their own housing when there are no opportunities open in the local job market.
+- ### Building Blocks
+	- https://innovation.wfp.org/project/building-blocks - Building Blocks is a humanitarian blockchain originally built by the World Food Programme (WFP) that is now owned and operated by a network of participating organizations who use it to collaborate, transact, and securely share information in real time. Building Blocks builds applications on the blockchain network that enable tracking, coordination, and delivery of multiple types of assistance to people in need, including cash, food, WASH (water, sanitation, and hygiene), medicine, and more. Four million people are supported by Building Blocks every month with over $325 million in cash assistance provided in countries including Bangladesh, Jordan, Lebanon, and Ukraine, saving $3 million in bank fees.
 - ### Endaoment
 	- [https://endaoment.org/](https://endaoment.org/) - A grantmaking foundation supporting every kind of giving, built entirely onchain.
 - ### Gitcoin
